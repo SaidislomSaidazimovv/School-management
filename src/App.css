@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Kumbh_Sans */
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-Black.ttf")
+    format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-Bold.ttf")
+    format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-ExtraBold.ttf")
+    format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-ExtraLight.ttf")
+    format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-Light.ttf")
+    format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-Medium.ttf")
+    format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-Regular.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-SemiBold.ttf")
+    format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KubmhSans";
+  src: url("./assets/font/Kumbh_Sans/static/KumbhSans-Thin.ttf")
+    format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* Inter */
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_18pt-Black.ttf');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_28pt-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_18pt-ExtraBold.ttf');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_18pt-ExtraLight.ttf');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_18pt-Light.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_18pt-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_18pt-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_18pt-SemiBold.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter/static/Inter_18pt-Thin.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
